@@ -16,6 +16,9 @@ The run_analysis.R file contains the code as follows.
 Column Description
 ------------------
 subject: Contains the ID of subject
+
 Activity_ID: ID of the activity
+
 Activity_Label: Contains the corresponding activities for Activity_ID
+
 Rest Columns: mean of the corresponding measurements for each subject and  activity.
