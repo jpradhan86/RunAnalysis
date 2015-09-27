@@ -1,10 +1,10 @@
 require("data.table")
 require("reshape2")
 
-# Load: activity labels
+# Load the activity labels
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")[,2]
 
-# Load: data column names
+# Load the data column names
 features <- read.table("./UCI HAR Dataset/features.txt")[,2]
 
 # Extract only the mean and standard deviation for each measurement.
