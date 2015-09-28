@@ -32,7 +32,8 @@ fBodyAccMag
 fBodyAccJerkMag  
 fBodyGyroMag  
 fBodyGyroJerkMag  
-Feature Estimates  
+  
+#Feature Estimates  
   
 The set of variables that were estimated from these signals are:
   
